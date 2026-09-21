@@ -30,12 +30,12 @@
 [![Machine Learning](https://img.shields.io/badge/Machine--Learning-0B192C?style=for-the-badge&logo=cpu&logoColor=white)](#)
 [![Data Analysis](https://img.shields.io/badge/Data--Analysis-002B5B?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
 
-### Mobile Development & Services
+### Mobile Development & DevOps
 [![Flutter](https://img.shields.io/badge/Flutter-002B5B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-1E3E62?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![React Native](https://img.shields.io/badge/React--Native-0B192C?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Codemagic](https://img.shields.io/badge/Codemagic-0B192C?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/)
 [![OneSignal](https://img.shields.io/badge/OneSignal-1E3E62?style=for-the-badge&logo=onesignal&logoColor=white)](https://onesignal.com/)
-[![Android Studio](https://img.shields.io/badge/Android--Studio-0B192C?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+[![Android Studio](https://img.shields.io/badge/Android--Studio-002B5B?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 
 ### Web Development & Backend Services
 [![HTML5](https://img.shields.io/badge/HTML5-0B192C?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -47,11 +47,13 @@
 [![Express.js](https://img.shields.io/badge/Express.js-0B192C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![REST API](https://img.shields.io/badge/REST--API-002B5B?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
-### Databases, Cloud & Infrastructure
+### Databases, Cloud & Containerization
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002B5B?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-1E3E62?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0B192C?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-002B5B?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![Docker](https://img.shields.io/badge/Docker-1E3E62?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Render](https://img.shields.io/badge/Render-0B192C?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-002B5B?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-1E3E62?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.io/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-0B192C?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
@@ -74,7 +76,7 @@
 | :--- | :--- | :---: |
 | 🧠 **INTELLIGENCE** | Predictive Models · ML Pipelines · Advanced Data Analysis | `ACTIVE` |
 | 📱 **DEVELOPMENT** | Cross-Platform Mobile Apps · Full-Stack Mobile · UI/UX | `ACTIVE` |
-| 🛠️ **ENGINEERING** | RESTful APIs Integration · System Architecture · DB Design | `ACTIVE` |
+| 🛠️ **ENGINEERING** | Containerization · Mobile CI/CD · Cloud Hosting · DB Design | `ACTIVE` |
 
 ---
 
@@ -83,8 +85,8 @@
 | Diagnostic Check | Core Technology Stack | Status |
 | :--- | :--- | :---: |
 | **Intelligence Modules** | `Python` · `Pandas` · `NumPy` · `Scikit-Learn` | [![Intelligence OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=intelligence)](#) |
-| **Mobile Systems** | `Flutter` · `Dart` · `OneSignal` · `Android Studio` | [![Mobile OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=flutter)](#) |
-| **Backend & Cloud** | `Node.js` · `Express` · `Firebase` · `Cloudflare` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=nodedotjs)](#) |
+| **Mobile Systems & CI/CD** | `Flutter` · `Dart` · `Codemagic` · `OneSignal` | [![Mobile OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=codemagic)](#) |
+| **Backend & Infrastructure** | `Node.js` · `Express` · `Docker` · `Render` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=docker)](#) |
 | **Database Drivers** | `PostgreSQL` · `MySQL` · `MongoDB` · `Mongoose` | [![Database OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=postgresql)](#) |
 
 ---
