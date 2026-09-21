@@ -3,7 +3,7 @@
 <!-- Navy Blue Dynamic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,50:1E3E62,100:002B5B&height=220&section=header&text=Nadeen%20Abu%20Hilweh&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Nadeen Header Banner">
 
-### 🤖 Software Engineer · 📊 Data Analyst · 📱 Flutter Developer
+### 🤖 Software Engineer · 📊 Data Analyst · 📱 Flutter & Full-Stack Developer
 
 <br>
 
@@ -22,31 +22,36 @@
 
 <div align="center">
 
+### Frontend & Web Development
+[![React](https://img.shields.io/badge/React-002B5B?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-1E3E62?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React Router](https://img.shields.io/badge/React_Router-0B192C?style=for-the-badge&logo=reactrouter&logoColor=white)](https://reactrouter.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-002B5B?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-0B192C?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-0B192C?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1E3E62?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Backend Services, Security & APIs
+[![Node.js](https://img.shields.io/badge/Node.js-1E3E62?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-0B192C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-002B5B?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JWT](https://img.shields.io/badge/JWT-1E3E62?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
+[![Axios](https://img.shields.io/badge/Axios-0B192C?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![REST API](https://img.shields.io/badge/REST--API-002B5B?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+
+### Mobile Development & DevOps
+[![Flutter](https://img.shields.io/badge/Flutter-002B5B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-1E3E62?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+[![Dart](https://img.shields.io/badge/Dart-0B192C?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Codemagic](https://img.shields.io/badge/Codemagic-0B192C?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/)
+[![OneSignal](https://img.shields.io/badge/OneSignal-1E3E62?style=for-the-badge&logo=onesignal&logoColor=white)](https://onesignal.com/)
+[![Android Studio](https://img.shields.io/badge/Android--Studio-002B5B?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
+
 ### Artificial Intelligence & Data Science
 [![Python](https://img.shields.io/badge/Python-0B192C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1E3E62?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-002B5B?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1E3E62?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Machine Learning](https://img.shields.io/badge/Machine--Learning-0B192C?style=for-the-badge&logo=cpu&logoColor=white)](#)
-[![Data Analysis](https://img.shields.io/badge/Data--Analysis-002B5B?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
-
-### Mobile Development & DevOps
-[![Flutter](https://img.shields.io/badge/Flutter-002B5B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-1E3E62?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Codemagic](https://img.shields.io/badge/Codemagic-0B192C?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io/)
-[![OneSignal](https://img.shields.io/badge/OneSignal-1E3E62?style=for-the-badge&logo=onesignal&logoColor=white)](https://onesignal.com/)
-[![Android Studio](https://img.shields.io/badge/Android--Studio-002B5B?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
-
-### Web Development & Backend Services
-[![TypeScript](https://img.shields.io/badge/TypeScript-002B5B?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1E3E62?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-002B5B?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-0B192C?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-1E3E62?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-0B192C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-0B192C?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1E3E62?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![REST API](https://img.shields.io/badge/REST--API-002B5B?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
 ### Databases, Cloud & Containerization
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002B5B?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -76,8 +81,8 @@
 | Module | Architecture Focus | Deployment Status |
 | :--- | :--- | :---: |
 | 🧠 **INTELLIGENCE** | Predictive Models · ML Pipelines · Advanced Data Analysis | `ACTIVE` |
-| 📱 **DEVELOPMENT** | Cross-Platform Mobile Apps · Full-Stack Mobile · UI/UX | `ACTIVE` |
-| 🛠️ **ENGINEERING** | TypeScript Integration · Containerization · Cloud Hosting | `ACTIVE` |
+| 📱 **MOBILE & WEB** | Cross-Platform Apps · Flutter / React Native · React / Vite · Tailwind | `ACTIVE` |
+| 🛠️ **ENGINEERING** | Node.js / Express · Security (JWT, bcrypt) · Docker · APIs | `ACTIVE` |
 
 ---
 
@@ -86,9 +91,9 @@
 | Diagnostic Check | Core Technology Stack | Status |
 | :--- | :--- | :---: |
 | **Intelligence Modules** | `Python` · `Pandas` · `NumPy` · `Scikit-Learn` | [![Intelligence OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=intelligence)](#) |
-| **Mobile Systems & CI/CD** | `Flutter` · `Dart` · `Codemagic` · `OneSignal` | [![Mobile OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=codemagic)](#) |
-| **Backend & Infrastructure** | `TypeScript` · `Node.js` · `Express` · `Docker` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=typescript)](#) |
-| **Database Drivers** | `PostgreSQL` · `MySQL` · `MongoDB` · `Mongoose` | [![Database OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=postgresql)](#) |
+| **Mobile Systems & CI/CD** | `Flutter` · `React Native` · `Dart` · `Codemagic` | [![Mobile OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=react)](#) |
+| **Frontend Web Systems** | `React` · `Vite` · `Tailwind CSS` · `Axios` | [![Frontend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=react)](#) |
+| **Backend & Security** | `Node.js` · `Express` · `JWT` · `TypeScript` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=typescript)](#) |
 
 ---
 
