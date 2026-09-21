@@ -38,13 +38,14 @@
 [![Android Studio](https://img.shields.io/badge/Android--Studio-002B5B?style=for-the-badge&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 
 ### Web Development & Backend Services
-[![HTML5](https://img.shields.io/badge/HTML5-0B192C?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1E3E62?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-002B5B?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-002B5B?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1E3E62?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-002B5B?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-0B192C?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-1E3E62?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-0B192C?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-0B192C?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1E3E62?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![REST API](https://img.shields.io/badge/REST--API-002B5B?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 
 ### Databases, Cloud & Containerization
@@ -76,7 +77,7 @@
 | :--- | :--- | :---: |
 | 🧠 **INTELLIGENCE** | Predictive Models · ML Pipelines · Advanced Data Analysis | `ACTIVE` |
 | 📱 **DEVELOPMENT** | Cross-Platform Mobile Apps · Full-Stack Mobile · UI/UX | `ACTIVE` |
-| 🛠️ **ENGINEERING** | Containerization · Mobile CI/CD · Cloud Hosting · DB Design | `ACTIVE` |
+| 🛠️ **ENGINEERING** | TypeScript Integration · Containerization · Cloud Hosting | `ACTIVE` |
 
 ---
 
@@ -86,7 +87,7 @@
 | :--- | :--- | :---: |
 | **Intelligence Modules** | `Python` · `Pandas` · `NumPy` · `Scikit-Learn` | [![Intelligence OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=intelligence)](#) |
 | **Mobile Systems & CI/CD** | `Flutter` · `Dart` · `Codemagic` · `OneSignal` | [![Mobile OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=codemagic)](#) |
-| **Backend & Infrastructure** | `Node.js` · `Express` · `Docker` · `Render` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=docker)](#) |
+| **Backend & Infrastructure** | `TypeScript` · `Node.js` · `Express` · `Docker` | [![Backend OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=typescript)](#) |
 | **Database Drivers** | `PostgreSQL` · `MySQL` · `MongoDB` · `Mongoose` | [![Database OK](https://img.shields.io/badge/Status-OK-1E3E62?style=flat-square&logo=postgresql)](#) |
 
 ---
